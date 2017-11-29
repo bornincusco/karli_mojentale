@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"net.sourceforge.ganttproject.task","l":"TaskMutator"}]
